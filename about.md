@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Software developer with an interest in learning more. Oh and music, lots and lots of music.
+
+
+* [Twitter](https://twitter.com/rivethead_/)
+* [last.fm](https://last.fm/user/rivethead_)
